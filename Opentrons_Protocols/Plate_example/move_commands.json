@@ -1,0 +1,580 @@
+[
+    {
+        "substance": "TriA",
+        "amount": 120,
+        "plate": 4,
+        "location": [
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8"
+        ]
+    },
+    {
+        "substance": "TriB",
+        "amount": 200,
+        "plate": 4,
+        "location": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B7",
+            "B8"
+        ]
+    },
+    {
+        "substance": "TriC",
+        "amount": 140,
+        "plate": 4,
+        "location": [
+            "C1",
+            "C2",
+            "C3",
+            "C4",
+            "C5",
+            "C6",
+            "C7",
+            "C8"
+        ]
+    },
+    {
+        "substance": "TriD",
+        "amount": 285,
+        "plate": 4,
+        "location": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5",
+            "D6",
+            "D7",
+            "D8"
+        ]
+    },
+    {
+        "substance": "TriE",
+        "amount": 180,
+        "plate": 4,
+        "location": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5",
+            "E6",
+            "E7",
+            "E8"
+        ]
+    },
+    {
+        "substance": "TriF",
+        "amount": 125,
+        "plate": 4,
+        "location": [
+            "F1",
+            "F2",
+            "F3",
+            "F4",
+            "F5",
+            "F6",
+            "F7",
+            "F8"
+        ]
+    },
+    {
+        "substance": "Di1",
+        "amount": 130,
+        "plate": 4,
+        "location": [
+            "A1",
+            "B1",
+            "C1",
+            "D1",
+            "E1",
+            "F1"
+        ]
+    },
+    {
+        "substance": "Di2",
+        "amount": 200,
+        "plate": 4,
+        "location": [
+            "A2",
+            "B2",
+            "C2",
+            "D2",
+            "E2",
+            "F2"
+        ]
+    },
+    {
+        "substance": "Di3",
+        "amount": 190,
+        "plate": 4,
+        "location": [
+            "A3",
+            "B3",
+            "C3",
+            "D3",
+            "E3",
+            "F3"
+        ]
+    },
+    {
+        "substance": "Di4",
+        "amount": 130,
+        "plate": 4,
+        "location": [
+            "A4",
+            "B4",
+            "C4",
+            "D4",
+            "E4",
+            "F4"
+        ]
+    },
+    {
+        "substance": "Di5",
+        "amount": 200,
+        "plate": 4,
+        "location": [
+            "A5",
+            "B5",
+            "C5",
+            "D5",
+            "E5",
+            "F5"
+        ]
+    },
+    {
+        "substance": "Di6",
+        "amount":200,
+        "plate": 4,
+        "location": [
+            "A6",
+            "B6",
+            "C6",
+            "D6",
+            "E6",
+            "F6"
+        ]
+    },
+    {
+        "substance": "Di7",
+        "amount": 220,
+        "plate": 4,
+        "location": [
+            "A7",
+            "B7",
+            "C7",
+            "D7",
+            "E7",
+            "F7"
+        ]
+    },
+    {
+        "substance": "Di8",
+        "amount": 230,
+        "plate": 4,
+        "location": [
+            "A8",
+            "B8",
+            "C8",
+            "D8",
+            "E8",
+            "F8"
+        ]
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A1"
+        ],
+        "amount": 752,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A2"
+        ],
+        "amount": 684,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A3"
+        ],
+        "amount": 693,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A4"
+        ],
+        "amount":752,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A5"
+        ],
+        "amount": 684,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A6"
+        ],
+        "amount": 680,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A7"
+        ],
+        "amount": 657,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "A8"
+        ],
+        "amount": 655,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B1"
+        ],
+        "amount": 671,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B2"
+        ],
+        "amount": 601,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B3"
+        ],
+        "amount": 611,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B4"
+        ],
+        "amount": 671,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B5"
+        ],
+        "amount": 601,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B6"
+        ],
+        "amount": 597,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B7"
+        ],
+        "amount": 574,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "B8"
+        ],
+        "amount": 5742,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C1"
+        ],
+        "amount": 732,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C2"
+        ],
+        "amount": 663,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C3"
+        ],
+        "amount": 672,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C4"
+        ],
+        "amount": 732,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C5"
+        ],
+        "amount": 663,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C6"
+        ],
+        "amount": 659,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C7"
+        ],
+        "amount": 636,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "C8"
+        ],
+        "amount": 634,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D1"
+        ],
+        "amount": 585,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D2"
+        ],
+        "amount": 516,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D3"
+        ],
+        "amount":525,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D4"
+        ],
+        "amount": 585,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D5"
+        ],
+        "amount": 516,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D6"
+        ],
+        "amount": 512,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D7"
+        ],
+        "amount": 489,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "D8"
+        ],
+        "amount": 487,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E1"
+        ],
+        "amount": 692,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E2"
+        ],
+        "amount": 623,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E3"
+        ],
+        "amount": 632,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E4"
+        ],
+        "amount": 692,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E5"
+        ],
+        "amount": 623,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E6"
+        ],
+        "amount": 619,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E7"
+        ],
+        "amount": 596,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "E8"
+        ],
+        "amount": 594,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F1"
+        ],
+        "amount": 745,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F2"
+        ],
+        "amount": 675,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F3"
+        ],
+        "amount": 685,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F4"
+        ],
+        "amount": 745,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F5"
+        ],
+        "amount": 676,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F6"
+        ],
+        "amount": 672,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F7"
+        ],
+        "amount": 648,
+        "plate": "4"
+    },
+    {
+        "substance": "Chloroform",
+        "location": [
+            "F8"
+        ],
+        "amount": 646,
+        "plate": "4"
+    }
+]

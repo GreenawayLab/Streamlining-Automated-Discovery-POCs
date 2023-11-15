@@ -1,0 +1,14 @@
+{
+    "5": {
+        "name": "Solvent",
+        "type": "fisher_6_wellplate_25000ul",
+        "A1": {
+            "substance": "Chloroform",
+            "amount": 20000
+        },
+        "A2": {
+            "substance": "Chloroform",
+            "amount": 20000
+        }
+    }
+}

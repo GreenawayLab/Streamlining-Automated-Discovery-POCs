@@ -1,0 +1,198 @@
+{
+    "3": {
+        "name": "Stock",
+        "type": "analyticalsales_48_wellplate_2000ul",
+        "A1": {
+            "substance": "A1",
+            "amount": 700
+        },
+        "A2": {
+            "substance": "A2",
+            "amount": 700
+        },
+        "A3": {
+            "substance": "A3",
+            "amount": 700
+        },
+        "A4": {
+            "substance": "A4",
+            "amount": 700
+        },
+        "A5": {
+            "substance": "A5",
+            "amount": 700
+        },
+        "A6": {
+            "substance": "A6",
+            "amount": 700
+        },
+        "A7": {
+            "substance": "A7",
+            "amount": 700
+        },
+        "A8": {
+            "substance": "A8",
+            "amount": 700
+        },
+        "B1": {
+            "substance": "B1",
+            "amount": 700
+        },
+        "B2": {
+            "substance": "B2",
+            "amount": 700
+        },
+        "B3": {
+            "substance": "B3",
+            "amount": 700
+        },
+        "B4": {
+            "substance": "B4",
+            "amount": 700
+        },
+        "B5": {
+            "substance": "B5",
+            "amount": 700
+        },
+        "B6": {
+            "substance": "B6",
+            "amount": 700
+        },
+        "B7": {
+            "substance": "B7",
+            "amount": 700
+        },
+        "B8": {
+            "substance": "B8",
+            "amount": 700
+        },
+        "C1": {
+            "substance": "C1",
+            "amount": 700
+        },
+        "C2": {
+            "substance": "C2",
+            "amount": 700
+        },
+        "C3": {
+            "substance": "C3",
+            "amount": 700
+        },
+        "C4": {
+            "substance": "C4",
+            "amount": 700
+        },
+        "C5": {
+            "substance": "C5",
+            "amount": 700
+        },
+        "C6": {
+            "substance": "C6",
+            "amount": 700
+        },
+        "C7": {
+            "substance": "C7",
+            "amount": 700
+        },
+        "C8": {
+            "substance": "C8",
+            "amount": 700
+        },
+        "D1": {
+            "substance": "D1",
+            "amount": 700
+        },
+        "D2": {
+            "substance": "D2",
+            "amount": 700
+        },
+        "D3": {
+            "substance": "D3",
+            "amount": 700
+        },
+        "D4": {
+            "substance": "D4",
+            "amount": 700
+        },
+        "D5": {
+            "substance": "D5",
+            "amount": 700
+        },
+        "D6": {
+            "substance": "D6",
+            "amount": 700
+        },
+        "D7": {
+            "substance": "D7",
+            "amount": 700
+        },
+        "D8": {
+            "substance": "D8",
+            "amount": 700
+        },
+        "E1": {
+            "substance": "E1",
+            "amount": 700
+        },
+        "E2": {
+            "substance": "E2",
+            "amount": 700
+        },
+        "E3": {
+            "substance": "E3",
+            "amount": 700
+        },
+        "E4": {
+            "substance": "E4",
+            "amount": 700
+        },
+        "E5": {
+            "substance": "E5",
+            "amount": 700
+        },
+        "E6": {
+            "substance": "E6",
+            "amount": 700
+        },
+        "E7": {
+            "substance": "E7",
+            "amount": 700
+        },
+        "E8": {
+            "substance": "E8",
+            "amount": 700
+        },
+        "F1": {
+            "substance": "F1",
+            "amount": 700
+        },
+        "F2": {
+            "substance": "F2",
+            "amount": 700
+        },
+        "F3": {
+            "substance": "F3",
+            "amount": 700
+        },
+        "F4": {
+            "substance": "F4",
+            "amount": 700
+        },
+        "F5": {
+            "substance": "F5",
+            "amount": 700
+        },
+        "F6": {
+            "substance": "F6",
+            "amount": 700
+        },
+        "F7": {
+            "substance": "F7",
+            "amount": 700
+        },
+        "F8": {
+            "substance": "F8",
+            "amount": 700
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "3": {
+        "name": "Stock",
+        "type": "analyticalsales_24_wellplate_8000ul",
+        "A1": {
+            "substance": "TriA",
+            "amount": 5000
+        },
+        "A2": {
+            "substance": "TriB",
+            "amount": 5000
+        },
+        "A3": {
+            "substance": "TriC",
+            "amount": 5000
+        },
+        "A4": {
+            "substance": "TriD",
+            "amount": 5000
+        },
+        "A5": {
+            "substance": "TriE",
+            "amount": 5000
+        },
+        "A6": {
+            "substance": "TriF",
+            "amount": 5000
+        },
+        "C1": {
+            "substance": "Di1",
+            "amount": 5000
+        },
+        "C2": {
+            "substance": "Di2",
+            "amount": 5000
+        },
+        "C3": {
+            "substance": "Di3",
+            "amount": 5000
+        },
+        "C4": {
+            "substance": "Di4",
+            "amount": 5000
+        },
+        "C5": {
+            "substance": "Di5",
+            "amount": 5000
+        },
+        "C6": {
+            "substance": "Di6",
+            "amount": 5000
+        },
+        "D1": {
+            "substance": "Di7",
+            "amount": 5000
+        },
+        "D2": {
+            "substance": "Di8",
+            "amount": 5000
+        }
+    },
+    "5": {
+        "name": "Solvent",
+        "type": "fisher_6_wellplate_25000ul",
+        "A1": {
+            "substance": "Chloroform",
+            "amount": 20000
+        },
+        "A2": {
+            "substance":"Chloroform",
+            "amount": 20000
+        }
+    }
+}

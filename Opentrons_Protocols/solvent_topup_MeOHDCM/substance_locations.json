@@ -1,0 +1,22 @@
+{
+    "5": {
+        "name": "Solvent",
+        "type": "fisher_6_wellplate_25000ul",
+        "A1": {
+            "substance": "DCMMeOH",
+            "amount": 20000
+        },
+        "A2": {
+            "substance": "DCMMeOH",
+            "amount": 20000
+        },
+        "A3": {
+            "substance": "DCMMeOH",
+            "amount": 20000
+        },
+        "B1": {
+            "substance": "DCMMeOH",
+            "amount": 20000
+        }
+    }
+}

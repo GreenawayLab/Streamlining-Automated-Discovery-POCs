@@ -1,0 +1,386 @@
+[
+    {
+        "substance": "A1",
+        "location": [
+            "A1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A2",
+        "location": [
+            "A2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A3",
+        "location": [
+            "A3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A4",
+        "location": [
+            "A4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A5",
+        "location": [
+            "A5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A6",
+        "location": [
+            "A6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A7",
+        "location": [
+            "A7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "A8",
+        "location": [
+            "A8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B1",
+        "location": [
+            "B1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B2",
+        "location": [
+            "B2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B3",
+        "location": [
+            "B3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B4",
+        "location": [
+            "B4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B5",
+        "location": [
+            "B5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B6",
+        "location": [
+            "B6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B7",
+        "location": [
+            "B7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "B8",
+        "location": [
+            "B8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C1",
+        "location": [
+            "C1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C2",
+        "location": [
+            "C2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C3",
+        "location": [
+            "C3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C4",
+        "location": [
+            "C4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C5",
+        "location": [
+            "C5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C6",
+        "location": [
+            "C6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C7",
+        "location": [
+            "C7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "C8",
+        "location": [
+            "C8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D1",
+        "location": [
+            "D1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D2",
+        "location": [
+            "D2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D3",
+        "location": [
+            "D3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D4",
+        "location": [
+            "D4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D5",
+        "location": [
+            "D5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D6",
+        "location": [
+            "D6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D7",
+        "location": [
+            "D7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "D8",
+        "location": [
+            "D8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E1",
+        "location": [
+            "E1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E2",
+        "location": [
+            "E2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E3",
+        "location": [
+            "E3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E4",
+        "location": [
+            "E4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E5",
+        "location": [
+            "E5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E6",
+        "location": [
+            "E6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E7",
+        "location": [
+            "E7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "E8",
+        "location": [
+            "E8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F1",
+        "location": [
+            "F1"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F2",
+        "location": [
+            "F2"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F3",
+        "location": [
+            "F3"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F4",
+        "location": [
+            "F4"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F5",
+        "location": [
+            "F5"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F6",
+        "location": [
+            "F6"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F7",
+        "location": [
+            "F7"
+        ],
+        "amount": 20,
+        "plate": "4"
+    },
+    {
+        "substance": "F8",
+        "location": [
+            "F8"
+        ],
+        "amount": 20,
+        "plate": "4"
+    }
+]

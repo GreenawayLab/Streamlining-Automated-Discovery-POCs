@@ -1,0 +1,119 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1"
+        ],
+        [
+            "A2",
+            "B2"
+        ],
+        [
+            "A3",
+            "B3"
+        ]
+    ],
+    "brand": {
+        "brand": "Fisher",
+        "brandId": [
+            "ANSI/SLAS_Microplate"
+        ]
+    },
+    "metadata": {
+        "displayName": "Fisher 6 Well Plate 25000ul",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.48,
+        "zDimension": 73.15
+    },
+    "wells": {
+        "A1": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 21.5,
+            "y": 64.78,
+            "z": 8.65
+        },
+        "B1": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 21.5,
+            "y": 23.38,
+            "z": 8.65
+        },
+        "A2": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 63.3,
+            "y": 64.78,
+            "z": 8.65
+        },
+        "B2": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 63.3,
+            "y": 23.38,
+            "z": 8.65
+        },
+        "A3": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 105.1,
+            "y": 64.78,
+            "z": 8.65
+        },
+        "B3": {
+            "depth": 64.5,
+            "totalLiquidVolume": 25000,
+            "shape": "circular",
+            "diameter": 15.05,
+            "x": 105.1,
+            "y": 23.38,
+            "z": 8.65
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "A2",
+                "B2",
+                "A3",
+                "B3"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "fisher_6_wellplate_25000ul"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

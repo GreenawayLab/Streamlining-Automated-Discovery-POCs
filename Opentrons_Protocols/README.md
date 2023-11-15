@@ -2,7 +2,16 @@
 ----------------
 A repository containing code used to replicate reactions performed on the Opentron platform.
 
+## Order of Scripts for HT Screen
+-----------------------
 
+A plate example for how the experimentation is given in Plate_example
+- After the reaction time has elapsed, the `48-well reaction plate` vials were taken for turbidity computer vision measurement (Turbidity-monitoring-using-computer-vision).
+- A 20 uL sample of the reaction mixture vials from the `48-well plate` was transferred from the analyticalsales_48_wellplate_2000ul.json to the HRMS `54-well plate` 54-well agilent_54_wellplate_2000ul.json using the scripts found in (HRMS_transfer)
+- The `54-well plate` with the 20 uL reaction mixture was then topped up with 50:50 MeOH:DCM using the scripts found in (solvent_topup_MeOHDCM)
+- Rapid solvent removal was then conducted of the `48-well reaction plate` using a EquaVAP and the 48-well plate returned to the deck
+- The same vials in the `48-well reaction plate` were then dissolved in CDCl3 using the scripts found in (solvent_topup_CDCl3)
+- The CDCl3 reaction mixtures were then transferred from the `48-well reaction plate` to the NMR `98-well plate` NMR tube holder hackspace_96_wellplate_600ul.json
 
 ## Guide to Using Opentrons Code
 --------------------------------

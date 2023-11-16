@@ -19,9 +19,12 @@ Once assembled, a three-step optimisation was conducted on each cage:
 
 The lowest energy conformer of the constructed molecule was then stored in a ConstructedMoleculeMongoDB using a 'cage_key' formed of the catenated SMILES strings of the component precursors, along with a unique _id. Within the database, cages are stored in collections, grouped by topology: '2+3', '4+6', '6+9' and '8+12'. 
 
+Mol files are given as a zip `mol_files.zip` which have a folder of each topology `twoplusthree` `fourplussix` `sixplusnine` `eightplustwelve`
+
 Porosity Properties Calculations
 
 Each precursor combination is called from the ConstructedMoleculeMongoDB by its 'cage_key' from all four collections of topology using the 'get_cages' function. 
 Then each cage in each topology of the precursor pair is written as a xyz and pdb file. The xyz file is loaded using pywindow as a molecular system (molsys) and then written as a pywindow molecule. 
 The molecular weight, pore diameter, pore volume, number of and size of windows and centre of mass is calculated and stored as a dictionary. 
 The function 'full_cage_analysis' combines the results of each cage topology of teh same precursor pair into one dictionary and writes a JSON file of the results.
+

@@ -1,0 +1,3296 @@
+{
+    "A1": {
+        "precursor_combination": "A1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_1",
+        "NMR_data_path": "/nmr/AB-02-005/01/10",
+        "HRMS_data_path": "/ms/AB-02-005_01_01.d"
+    },
+    "A2": {
+        "precursor_combination": "A2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_2",
+        "NMR_data_path": "/nmr/AB-02-005/01/20",
+        "HRMS_data_path": "/ms/AB-02-005_01_02.d"
+    },
+    "A3": {
+        "precursor_combination": "A3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_3",
+        "NMR_data_path": "/nmr/AB-02-005/01/30",
+        "HRMS_data_path": "/ms/AB-02-005_01_03.d"
+    },
+    "A4": {
+        "precursor_combination": "A4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_4",
+        "NMR_data_path": "/nmr/AB-02-005/01/40",
+        "HRMS_data_path": "/ms/AB-02-005_01_04.d"
+    },
+    "A5": {
+        "precursor_combination": "A5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_5",
+        "NMR_data_path": "/nmr/AB-02-005/01/50",
+        "HRMS_data_path": "/ms/AB-02-005_01_05.d"
+    },
+    "A6": {
+        "precursor_combination": "A6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_6",
+        "NMR_data_path": "/nmr/AB-02-005/01/60",
+        "HRMS_data_path": "/ms/AB-02-005_01_06.d"
+    },
+    "A7": {
+        "precursor_combination": "A7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_7",
+        "NMR_data_path": "/nmr/AB-02-005/01/70",
+        "HRMS_data_path": "/ms/AB-02-005_01_07.d"
+    },
+    "A8": {
+        "precursor_combination": "A8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_8",
+        "NMR_data_path": "/nmr/AB-02-005/01/80",
+        "HRMS_data_path": "/ms/AB-02-005_01_08.d"
+    },
+    "A9": {
+        "precursor_combination": "A9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_1",
+        "NMR_data_path": "/nmr/AB-02-005/03/970",
+        "HRMS_data_path": "/ms/AB-02-005_03_01.d"
+    },
+    "A10": {
+        "precursor_combination": "A10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_2",
+        "NMR_data_path": "/nmr/AB-02-005/03/980",
+        "HRMS_data_path": "/ms/AB-02-005_03_02.d"
+    },
+    "A11": {
+        "precursor_combination": "A11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_3",
+        "NMR_data_path": "/nmr/AB-02-005/03/990",
+        "HRMS_data_path": "/ms/AB-02-005_03_03.d"
+    },
+    "A12": {
+        "precursor_combination": "A12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_4",
+        "NMR_data_path": "/nmr/AB-02-005/03/1000",
+        "HRMS_data_path": "/ms/AB-02-005_03_04.d"
+    },
+    "A13": {
+        "precursor_combination": "A13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_5",
+        "NMR_data_path": "/nmr/AB-02-005/03/1010",
+        "HRMS_data_path": "/ms/AB-02-005_03_05.d"
+    },
+    "A14": {
+        "precursor_combination": "A14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_6",
+        "NMR_data_path": "/nmr/AB-02-005/03/1020",
+        "HRMS_data_path": "/ms/AB-02-005_03_06.d"
+    },
+    "A15": {
+        "precursor_combination": "A15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_7",
+        "NMR_data_path": "/nmr/AB-02-005/03/1030",
+        "HRMS_data_path": "/ms/AB-02-005_03_07.d"
+    },
+    "A16": {
+        "precursor_combination": "A16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_8",
+        "NMR_data_path": "/nmr/AB-02-005/03/1040",
+        "HRMS_data_path": "/ms/AB-02-005_03_08.d"
+    },
+    "B1": {
+        "precursor_combination": "B1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_9",
+        "NMR_data_path": "/nmr/AB-02-005/01/90",
+        "HRMS_data_path": "/ms/AB-02-005_01_09.d"
+    },
+    "B2": {
+        "precursor_combination": "B2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-005/01/100",
+        "HRMS_data_path": "/ms/AB-02-005_01_10.d"
+    },
+    "B3": {
+        "precursor_combination": "B3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-005/01/110",
+        "HRMS_data_path": "/ms/AB-02-005_01_11.d"
+    },
+    "B4": {
+        "precursor_combination": "B4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-005/01/120",
+        "HRMS_data_path": "/ms/AB-02-005_01_12.d"
+    },
+    "B5": {
+        "precursor_combination": "B5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-005/01/130",
+        "HRMS_data_path": "/ms/AB-02-005_01_13.d"
+    },
+    "B6": {
+        "precursor_combination": "B6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-005/01/140",
+        "HRMS_data_path": "/ms/AB-02-005_01_14.d"
+    },
+    "B7": {
+        "precursor_combination": "B7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-005/01/150",
+        "HRMS_data_path": "/ms/AB-02-005_01_15.d"
+    },
+    "B8": {
+        "precursor_combination": "B8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-005/01/160",
+        "HRMS_data_path": "/ms/AB-02-005_01_16.d"
+    },
+    "B9": {
+        "precursor_combination": "B9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_9",
+        "NMR_data_path": "/nmr/AB-02-005/03/1050",
+        "HRMS_data_path": "/ms/AB-02-005_03_09.d"
+    },
+    "B10": {
+        "precursor_combination": "B10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-005/03/1060",
+        "HRMS_data_path": "/ms/AB-02-005_03_10.d"
+    },
+    "B11": {
+        "precursor_combination": "B11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-005/03/1070",
+        "HRMS_data_path": "/ms/AB-02-005_03_11.d"
+    },
+    "B12": {
+        "precursor_combination": "B12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-005/03/1080",
+        "HRMS_data_path": "/ms/AB-02-005_03_12.d"
+    },
+    "B13": {
+        "precursor_combination": "B13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-005/03/1090",
+        "HRMS_data_path": "/ms/AB-02-005_03_13.d"
+    },
+    "B14": {
+        "precursor_combination": "B14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-005/03/1100",
+        "HRMS_data_path": "/ms/AB-02-005_03_14.d"
+    },
+    "B15": {
+        "precursor_combination": "B15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-005/03/1110",
+        "HRMS_data_path": "/ms/AB-02-005_03_15.d"
+    },
+    "B16": {
+        "precursor_combination": "B16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-005/03/1120",
+        "HRMS_data_path": "/ms/AB-02-005_03_16.d"
+    },
+    "C1": {
+        "precursor_combination": "C1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-005/01/170",
+        "HRMS_data_path": "/ms/AB-02-005_01_17.d"
+    },
+    "C2": {
+        "precursor_combination": "C2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-005/01/180",
+        "HRMS_data_path": "/ms/AB-02-005_01_18.d"
+    },
+    "C3": {
+        "precursor_combination": "C3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-005/01/190",
+        "HRMS_data_path": "/ms/AB-02-005_01_19.d"
+    },
+    "C4": {
+        "precursor_combination": "C4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-005/01/200",
+        "HRMS_data_path": "/ms/AB-02-005_01_20.d"
+    },
+    "C5": {
+        "precursor_combination": "C5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-005/01/210",
+        "HRMS_data_path": "/ms/AB-02-005_01_21.d"
+    },
+    "C6": {
+        "precursor_combination": "C6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-005/01/220",
+        "HRMS_data_path": "/ms/AB-02-005_01_22.d"
+    },
+    "C7": {
+        "precursor_combination": "C7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-005/01/230",
+        "HRMS_data_path": "/ms/AB-02-005_01_23.d"
+    },
+    "C8": {
+        "precursor_combination": "C8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-005/01/240",
+        "HRMS_data_path": "/ms/AB-02-005_01_24.d"
+    },
+    "C9": {
+        "precursor_combination": "C9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-005/03/1130",
+        "HRMS_data_path": "/ms/AB-02-005_03_17.d"
+    },
+    "C10": {
+        "precursor_combination": "C10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-005/03/1140",
+        "HRMS_data_path": "/ms/AB-02-005_03_18.d"
+    },
+    "C11": {
+        "precursor_combination": "C11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-005/03/1150",
+        "HRMS_data_path": "/ms/AB-02-005_03_19.d"
+    },
+    "C12": {
+        "precursor_combination": "C12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-005/03/1160",
+        "HRMS_data_path": "/ms/AB-02-005_03_20.d"
+    },
+    "C13": {
+        "precursor_combination": "C13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-005/03/1170",
+        "HRMS_data_path": "/ms/AB-02-005_03_21.d"
+    },
+    "C14": {
+        "precursor_combination": "C14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-005/03/1180",
+        "HRMS_data_path": "/ms/AB-02-005_03_22.d"
+    },
+    "C15": {
+        "precursor_combination": "C15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-005/03/1190",
+        "HRMS_data_path": "/ms/AB-02-005_03_23.d"
+    },
+    "C16": {
+        "precursor_combination": "C16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-005/03/1200",
+        "HRMS_data_path": "/ms/AB-02-005_03_24.d"
+    },
+    "D1": {
+        "precursor_combination": "D1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-005/01/250",
+        "HRMS_data_path": "/ms/AB-02-005_01_25.d"
+    },
+    "D2": {
+        "precursor_combination": "D2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-005/01/260",
+        "HRMS_data_path": "/ms/AB-02-005_01_26.d"
+    },
+    "D3": {
+        "precursor_combination": "D3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-005/01/270",
+        "HRMS_data_path": "/ms/AB-02-005_01_27.d"
+    },
+    "D4": {
+        "precursor_combination": "D4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-005/01/280",
+        "HRMS_data_path": "/ms/AB-02-005_01_28.d"
+    },
+    "D5": {
+        "precursor_combination": "D5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-005/01/290",
+        "HRMS_data_path": "/ms/AB-02-005_01_29.d"
+    },
+    "D6": {
+        "precursor_combination": "D6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-005/01/300",
+        "HRMS_data_path": "/ms/AB-02-005_01_30.d"
+    },
+    "D7": {
+        "precursor_combination": "D7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-005/01/310",
+        "HRMS_data_path": "/ms/AB-02-005_01_31.d"
+    },
+    "D8": {
+        "precursor_combination": "D8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-005/01/320",
+        "HRMS_data_path": "/ms/AB-02-005_01_32.d"
+    },
+    "D9": {
+        "precursor_combination": "D9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-005/03/1210",
+        "HRMS_data_path": "/ms/AB-02-005_03_25.d"
+    },
+    "D10": {
+        "precursor_combination": "D10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-005/03/1220",
+        "HRMS_data_path": "/ms/AB-02-005_03_26.d"
+    },
+    "D11": {
+        "precursor_combination": "D11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-005/03/1230",
+        "HRMS_data_path": "/ms/AB-02-005_03_27.d"
+    },
+    "D12": {
+        "precursor_combination": "D12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-005/03/1240",
+        "HRMS_data_path": "/ms/AB-02-005_03_28.d"
+    },
+    "D13": {
+        "precursor_combination": "D13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-005/03/1250",
+        "HRMS_data_path": "/ms/AB-02-005_03_29.d"
+    },
+    "D14": {
+        "precursor_combination": "D14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-005/03/1260",
+        "HRMS_data_path": "/ms/AB-02-005_03_30.d"
+    },
+    "D15": {
+        "precursor_combination": "D15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-005/03/1270",
+        "HRMS_data_path": "/ms/AB-02-005_03_31.d"
+    },
+    "D16": {
+        "precursor_combination": "D16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-005/03/1280",
+        "HRMS_data_path": "/ms/AB-02-005_03_32.d"
+    },
+    "E1": {
+        "precursor_combination": "E1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-005/01/330",
+        "HRMS_data_path": "/ms/AB-02-005_01_33.d"
+    },
+    "E2": {
+        "precursor_combination": "E2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-005/01/340",
+        "HRMS_data_path": "/ms/AB-02-005_01_34.d"
+    },
+    "E3": {
+        "precursor_combination": "E3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-005/01/350",
+        "HRMS_data_path": "/ms/AB-02-005_01_35.d"
+    },
+    "E4": {
+        "precursor_combination": "E4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-005/01/360",
+        "HRMS_data_path": "/ms/AB-02-005_01_36.d"
+    },
+    "E5": {
+        "precursor_combination": "E5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-005/01/370",
+        "HRMS_data_path": "/ms/AB-02-005_01_37.d"
+    },
+    "E6": {
+        "precursor_combination": "E6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-005/01/380",
+        "HRMS_data_path": "/ms/AB-02-005_01_38.d"
+    },
+    "E7": {
+        "precursor_combination": "E7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-005/01/390",
+        "HRMS_data_path": "/ms/AB-02-005_01_39.d"
+    },
+    "E8": {
+        "precursor_combination": "E8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-005/01/400",
+        "HRMS_data_path": "/ms/AB-02-005_01_40.d"
+    },
+    "E9": {
+        "precursor_combination": "E9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-005/03/1290",
+        "HRMS_data_path": "/ms/AB-02-005_03_33.d"
+    },
+    "E10": {
+        "precursor_combination": "E10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-005/03/1300",
+        "HRMS_data_path": "/ms/AB-02-005_03_34.d"
+    },
+    "E11": {
+        "precursor_combination": "E11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-005/03/1310",
+        "HRMS_data_path": "/ms/AB-02-005_03_35.d"
+    },
+    "E12": {
+        "precursor_combination": "E12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-005/03/1320",
+        "HRMS_data_path": "/ms/AB-02-005_03_36.d"
+    },
+    "E13": {
+        "precursor_combination": "E13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-005/03/1330",
+        "HRMS_data_path": "/ms/AB-02-005_03_37.d"
+    },
+    "E14": {
+        "precursor_combination": "E14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-005/03/1340",
+        "HRMS_data_path": "/ms/AB-02-005_03_38.d"
+    },
+    "E15": {
+        "precursor_combination": "E15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-005/03/1350",
+        "HRMS_data_path": "/ms/AB-02-005_03_39.d"
+    },
+    "E16": {
+        "precursor_combination": "E16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-005/03/1360",
+        "HRMS_data_path": "/ms/AB-02-005_03_40.d"
+    },
+    "F1": {
+        "precursor_combination": "F1",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-005/01/410",
+        "HRMS_data_path": "/ms/AB-02-005_01_41.d"
+    },
+    "F2": {
+        "precursor_combination": "F2",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-005/01/420",
+        "HRMS_data_path": "/ms/AB-02-005_01_42.d"
+    },
+    "F3": {
+        "precursor_combination": "F3",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-005/01/430",
+        "HRMS_data_path": "/ms/AB-02-005_01_43.d"
+    },
+    "F4": {
+        "precursor_combination": "F4",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-005/01/440",
+        "HRMS_data_path": "/ms/AB-02-005_01_44.d"
+    },
+    "F5": {
+        "precursor_combination": "F5",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-005/01/450",
+        "HRMS_data_path": "/ms/AB-02-005_01_45.d"
+    },
+    "F6": {
+        "precursor_combination": "F6",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-005/01/460",
+        "HRMS_data_path": "/ms/AB-02-005_01_46.d"
+    },
+    "F7": {
+        "precursor_combination": "F7",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-005/01/470",
+        "HRMS_data_path": "/ms/AB-02-005_01_47.d"
+    },
+    "F8": {
+        "precursor_combination": "F8",
+        "experiment_code": "AB-02-005",
+        "plate_number": "01",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-005/01/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-005/01/480",
+        "HRMS_data_path": "/ms/AB-02-005_01_48.d"
+    },
+    "F9": {
+        "precursor_combination": "F9",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-005/03/1370",
+        "HRMS_data_path": "/ms/AB-02-005_03_41.d"
+    },
+    "F10": {
+        "precursor_combination": "F10",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-005/03/1380",
+        "HRMS_data_path": "/ms/AB-02-005_03_42.d"
+    },
+    "F11": {
+        "precursor_combination": "F11",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-005/03/1390",
+        "HRMS_data_path": "/ms/AB-02-005_03_43.d"
+    },
+    "F12": {
+        "precursor_combination": "F12",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-005/03/1400",
+        "HRMS_data_path": "/ms/AB-02-005_03_44.d"
+    },
+    "F13": {
+        "precursor_combination": "F13",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-005/03/1410",
+        "HRMS_data_path": "/ms/AB-02-005_03_45.d"
+    },
+    "F14": {
+        "precursor_combination": "F14",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-005/03/1420",
+        "HRMS_data_path": "/ms/AB-02-005_03_46.d"
+    },
+    "F15": {
+        "precursor_combination": "F15",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-005/03/1430",
+        "HRMS_data_path": "/ms/AB-02-005_03_47.d"
+    },
+    "F16": {
+        "precursor_combination": "F16",
+        "experiment_code": "AB-02-005",
+        "plate_number": "03",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-005/03/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-005/03/1440",
+        "HRMS_data_path": "/ms/AB-02-005_03_48.d"
+    },
+    "G17": {
+        "precursor_combination": "G17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_01",
+        "NMR_data_path": "/nmr/AB-02-005/02/490",
+        "HRMS_data_path": "/ms/AB-02-005_02_01.d"
+    },
+    "G18": {
+        "precursor_combination": "G18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_02",
+        "NMR_data_path": "/nmr/AB-02-005/02/500",
+        "HRMS_data_path": "/ms/AB-02-005_02_02.d"
+    },
+    "G19": {
+        "precursor_combination": "G19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_03",
+        "NMR_data_path": "/nmr/AB-02-005/02/510",
+        "HRMS_data_path": "/ms/AB-02-005_02_03.d"
+    },
+    "G20": {
+        "precursor_combination": "G20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_04",
+        "NMR_data_path": "/nmr/AB-02-005/02/520",
+        "HRMS_data_path": "/ms/AB-02-005_02_04.d"
+    },
+    "G21": {
+        "precursor_combination": "G21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_05",
+        "NMR_data_path": "/nmr/AB-02-005/02/530",
+        "HRMS_data_path": "/ms/AB-02-005_02_05.d"
+    },
+    "G22": {
+        "precursor_combination": "G22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_06",
+        "NMR_data_path": "/nmr/AB-02-005/02/540",
+        "HRMS_data_path": "/ms/AB-02-005_02_06.d"
+    },
+    "G23": {
+        "precursor_combination": "G23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_07",
+        "NMR_data_path": "/nmr/AB-02-005/02/550",
+        "HRMS_data_path": "/ms/AB-02-005_02_07.d"
+    },
+    "G24": {
+        "precursor_combination": "G24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_08",
+        "NMR_data_path": "/nmr/AB-02-005/02/560",
+        "HRMS_data_path": "/ms/AB-02-005_02_08.d"
+    },
+    "G25": {
+        "precursor_combination": "G25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_07",
+        "NMR_data_path": "/nmr/AB-02-007/01/70",
+        "HRMS_data_path": "/ms/AB-02-007_01_07.d"
+    },
+    "G26": {
+        "precursor_combination": "G26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_08",
+        "NMR_data_path": "/nmr/AB-02-007/01/80",
+        "HRMS_data_path": "/ms/AB-02-007_01_08.d"
+    },
+    "G27": {
+        "precursor_combination": "G27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_09",
+        "NMR_data_path": "/nmr/AB-02-007/04/10",
+        "HRMS_data_path": "/ms/AB-02-007_04_10.d"
+    },
+    "G28": {
+        "precursor_combination": "G28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-007/04/20",
+        "HRMS_data_path": "/ms/AB-02-007_04_20.d"
+    },
+    "G29": {
+        "precursor_combination": "G29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-007/04/30",
+        "HRMS_data_path": "/ms/AB-02-007_04_30.d"
+    },
+    "G30": {
+        "precursor_combination": "G30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-007/04/40",
+        "HRMS_data_path": "/ms/AB-02-007_04_40.d"
+    },
+    "G31": {
+        "precursor_combination": "G31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-007/04/50",
+        "HRMS_data_path": "/ms/AB-02-007_04_50.d"
+    },
+    "G32": {
+        "precursor_combination": "G32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-007/04/60",
+        "HRMS_data_path": "/ms/AB-02-007_04_60.d"
+    },
+    "G33": {
+        "precursor_combination": "G33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-007/04/70",
+        "HRMS_data_path": "/ms/AB-02-007_04_70.d"
+    },
+    "G34": {
+        "precursor_combination": "G34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-007/04/80",
+        "HRMS_data_path": "/ms/AB-02-007_04_80.d"
+    },
+    "H17": {
+        "precursor_combination": "H17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_09",
+        "NMR_data_path": "/nmr/AB-02-005/02/570",
+        "HRMS_data_path": "/ms/AB-02-005_02_09.d"
+    },
+    "H18": {
+        "precursor_combination": "H18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-005/02/580",
+        "HRMS_data_path": "/ms/AB-02-005_02_10.d"
+    },
+    "H19": {
+        "precursor_combination": "H19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-005/02/590",
+        "HRMS_data_path": "/ms/AB-02-005_02_11.d"
+    },
+    "H20": {
+        "precursor_combination": "H20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-005/02/600",
+        "HRMS_data_path": "/ms/AB-02-005_02_12.d"
+    },
+    "H21": {
+        "precursor_combination": "H21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-005/02/610",
+        "HRMS_data_path": "/ms/AB-02-005_02_13.d"
+    },
+    "H22": {
+        "precursor_combination": "H22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-005/02/620",
+        "HRMS_data_path": "/ms/AB-02-005_02_14.d"
+    },
+    "H23": {
+        "precursor_combination": "H23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-005/02/630",
+        "HRMS_data_path": "/ms/AB-02-005_02_15.d"
+    },
+    "H24": {
+        "precursor_combination": "H24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-005/02/640",
+        "HRMS_data_path": "/ms/AB-02-005_02_16.d"
+    },
+    "H25": {
+        "precursor_combination": "H25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-007/01/150",
+        "HRMS_data_path": "/ms/AB-02-007_01_15.d"
+    },
+    "H26": {
+        "precursor_combination": "H26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-007/01/160",
+        "HRMS_data_path": "/ms/AB-02-007_01_16.d"
+    },
+    "H27": {
+        "precursor_combination": "H27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_09",
+        "NMR_data_path": "/nmr/AB-02-007/04/90",
+        "HRMS_data_path": "/ms/AB-02-007_04_90.d"
+    },
+    "H28": {
+        "precursor_combination": "H28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-007/04/100",
+        "HRMS_data_path": "/ms/AB-02-007_04_100.d"
+    },
+    "H29": {
+        "precursor_combination": "H29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-007/04/110",
+        "HRMS_data_path": "/ms/AB-02-007_04_110.d"
+    },
+    "H30": {
+        "precursor_combination": "H30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-007/04/120",
+        "HRMS_data_path": "/ms/AB-02-007_04_120.d"
+    },
+    "H31": {
+        "precursor_combination": "H31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-007/04/130",
+        "HRMS_data_path": "/ms/AB-02-007_04_130.d"
+    },
+    "H32": {
+        "precursor_combination": "H32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-007/04/140",
+        "HRMS_data_path": "/ms/AB-02-007_04_140.d"
+    },
+    "H33": {
+        "precursor_combination": "H33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-007/04/150",
+        "HRMS_data_path": "/ms/AB-02-007_04_150.d"
+    },
+    "H34": {
+        "precursor_combination": "H34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-007/04/160",
+        "HRMS_data_path": "/ms/AB-02-007_04_160.d"
+    },
+    "I17": {
+        "precursor_combination": "I17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-005/02/650",
+        "HRMS_data_path": "/ms/AB-02-005_02_17.d"
+    },
+    "I18": {
+        "precursor_combination": "I18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-005/02/660",
+        "HRMS_data_path": "/ms/AB-02-005_02_18.d"
+    },
+    "I19": {
+        "precursor_combination": "I19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-005/02/670",
+        "HRMS_data_path": "/ms/AB-02-005_02_19.d"
+    },
+    "I20": {
+        "precursor_combination": "I20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-005/02/680",
+        "HRMS_data_path": "/ms/AB-02-005_02_20.d"
+    },
+    "I21": {
+        "precursor_combination": "I21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-005/02/690",
+        "HRMS_data_path": "/ms/AB-02-005_02_21.d"
+    },
+    "I22": {
+        "precursor_combination": "I22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-005/02/700",
+        "HRMS_data_path": "/ms/AB-02-005_02_22.d"
+    },
+    "I23": {
+        "precursor_combination": "I23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-005/02/710",
+        "HRMS_data_path": "/ms/AB-02-005_02_23.d"
+    },
+    "I24": {
+        "precursor_combination": "I24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-005/02/720",
+        "HRMS_data_path": "/ms/AB-02-005_02_24.d"
+    },
+    "I25": {
+        "precursor_combination": "I25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-007/01/230",
+        "HRMS_data_path": "/ms/AB-02-007_01_23.d"
+    },
+    "I26": {
+        "precursor_combination": "I26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-007/01/240",
+        "HRMS_data_path": "/ms/AB-02-007_01_24.d"
+    },
+    "I27": {
+        "precursor_combination": "I27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-007/04/170",
+        "HRMS_data_path": "/ms/AB-02-007_04_170.d"
+    },
+    "I28": {
+        "precursor_combination": "I28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-007/04/180",
+        "HRMS_data_path": "/ms/AB-02-007_04_180.d"
+    },
+    "I29": {
+        "precursor_combination": "I29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-007/04/190",
+        "HRMS_data_path": "/ms/AB-02-007_04_190.d"
+    },
+    "I30": {
+        "precursor_combination": "I30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-007/04/200",
+        "HRMS_data_path": "/ms/AB-02-007_04_200.d"
+    },
+    "I31": {
+        "precursor_combination": "I31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-007/04/210",
+        "HRMS_data_path": "/ms/AB-02-007_04_210.d"
+    },
+    "I32": {
+        "precursor_combination": "I32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-007/04/220",
+        "HRMS_data_path": "/ms/AB-02-007_04_220.d"
+    },
+    "I33": {
+        "precursor_combination": "I33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-007/04/230",
+        "HRMS_data_path": "/ms/AB-02-007_04_230.d"
+    },
+    "I34": {
+        "precursor_combination": "I34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-007/04/240",
+        "HRMS_data_path": "/ms/AB-02-007_04_240.d"
+    },
+    "J17": {
+        "precursor_combination": "J17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-005/02/730",
+        "HRMS_data_path": "/ms/AB-02-005_02_25.d"
+    },
+    "J18": {
+        "precursor_combination": "J18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-005/02/740",
+        "HRMS_data_path": "/ms/AB-02-005_02_26.d"
+    },
+    "J19": {
+        "precursor_combination": "J19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-005/02/750",
+        "HRMS_data_path": "/ms/AB-02-005_02_27.d"
+    },
+    "J20": {
+        "precursor_combination": "J20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-005/02/760",
+        "HRMS_data_path": "/ms/AB-02-005_02_28.d"
+    },
+    "J21": {
+        "precursor_combination": "J21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-005/02/770",
+        "HRMS_data_path": "/ms/AB-02-005_02_29.d"
+    },
+    "J22": {
+        "precursor_combination": "J22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-005/02/780",
+        "HRMS_data_path": "/ms/AB-02-005_02_30.d"
+    },
+    "J23": {
+        "precursor_combination": "J23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-005/02/790",
+        "HRMS_data_path": "/ms/AB-02-005_02_31.d"
+    },
+    "J24": {
+        "precursor_combination": "J24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-005/02/800",
+        "HRMS_data_path": "/ms/AB-02-005_02_32.d"
+    },
+    "J25": {
+        "precursor_combination": "J25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-007/01/310",
+        "HRMS_data_path": "/ms/AB-02-007_01_31.d"
+    },
+    "J26": {
+        "precursor_combination": "J26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-007/01/320",
+        "HRMS_data_path": "/ms/AB-02-007_01_32.d"
+    },
+    "J27": {
+        "precursor_combination": "J27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-007/04/250",
+        "HRMS_data_path": "/ms/AB-02-007_04_250.d"
+    },
+    "J28": {
+        "precursor_combination": "J28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-007/04/260",
+        "HRMS_data_path": "/ms/AB-02-007_04_260.d"
+    },
+    "J29": {
+        "precursor_combination": "J29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-007/04/270",
+        "HRMS_data_path": "/ms/AB-02-007_04_270.d"
+    },
+    "J30": {
+        "precursor_combination": "J30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-007/04/280",
+        "HRMS_data_path": "/ms/AB-02-007_04_280.d"
+    },
+    "J31": {
+        "precursor_combination": "J31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-007/04/290",
+        "HRMS_data_path": "/ms/AB-02-007_04_290.d"
+    },
+    "J32": {
+        "precursor_combination": "J32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-007/04/300",
+        "HRMS_data_path": "/ms/AB-02-007_04_300.d"
+    },
+    "J33": {
+        "precursor_combination": "J33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-007/04/310",
+        "HRMS_data_path": "/ms/AB-02-007_04_310.d"
+    },
+    "J34": {
+        "precursor_combination": "J34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-007/04/320",
+        "HRMS_data_path": "/ms/AB-02-007_04_320.d"
+    },
+    "K17": {
+        "precursor_combination": "K17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-005/02/810",
+        "HRMS_data_path": "/ms/AB-02-005_02_33.d"
+    },
+    "K18": {
+        "precursor_combination": "K18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-005/02/820",
+        "HRMS_data_path": "/ms/AB-02-005_02_34.d"
+    },
+    "K19": {
+        "precursor_combination": "K19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-005/02/830",
+        "HRMS_data_path": "/ms/AB-02-005_02_35.d"
+    },
+    "K20": {
+        "precursor_combination": "K20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-005/02/840",
+        "HRMS_data_path": "/ms/AB-02-005_02_36.d"
+    },
+    "K21": {
+        "precursor_combination": "K21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-005/02/850",
+        "HRMS_data_path": "/ms/AB-02-005_02_37.d"
+    },
+    "K22": {
+        "precursor_combination": "K22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-005/02/860",
+        "HRMS_data_path": "/ms/AB-02-005_02_38.d"
+    },
+    "K23": {
+        "precursor_combination": "K23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-005/02/870",
+        "HRMS_data_path": "/ms/AB-02-005_02_39.d"
+    },
+    "K24": {
+        "precursor_combination": "K24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-005/02/880",
+        "HRMS_data_path": "/ms/AB-02-005_02_40.d"
+    },
+    "K25": {
+        "precursor_combination": "K25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-007/01/390",
+        "HRMS_data_path": "/ms/AB-02-007_01_39.d"
+    },
+    "K26": {
+        "precursor_combination": "K26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-007/01/400",
+        "HRMS_data_path": "/ms/AB-02-007_01_40.d"
+    },
+    "K27": {
+        "precursor_combination": "K27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-007/04/330",
+        "HRMS_data_path": "/ms/AB-02-007_04_330.d"
+    },
+    "K28": {
+        "precursor_combination": "K28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-007/04/340",
+        "HRMS_data_path": "/ms/AB-02-007_04_340.d"
+    },
+    "K29": {
+        "precursor_combination": "K29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-007/04/350",
+        "HRMS_data_path": "/ms/AB-02-007_04_350.d"
+    },
+    "K30": {
+        "precursor_combination": "K30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-007/04/360",
+        "HRMS_data_path": "/ms/AB-02-007_04_360.d"
+    },
+    "K31": {
+        "precursor_combination": "K31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-007/04/370",
+        "HRMS_data_path": "/ms/AB-02-007_04_370.d"
+    },
+    "K32": {
+        "precursor_combination": "K32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-007/04/380",
+        "HRMS_data_path": "/ms/AB-02-007_04_380.d"
+    },
+    "K33": {
+        "precursor_combination": "K33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-007/04/390",
+        "HRMS_data_path": "/ms/AB-02-007_04_390.d"
+    },
+    "K34": {
+        "precursor_combination": "K34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-007/04/400",
+        "HRMS_data_path": "/ms/AB-02-007_04_400.d"
+    },
+    "L17": {
+        "precursor_combination": "L17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-005/02/890",
+        "HRMS_data_path": "/ms/AB-02-005_02_41.d"
+    },
+    "L18": {
+        "precursor_combination": "L18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-005/02/900",
+        "HRMS_data_path": "/ms/AB-02-005_02_42.d"
+    },
+    "L19": {
+        "precursor_combination": "L19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-005/02/910",
+        "HRMS_data_path": "/ms/AB-02-005_02_43.d"
+    },
+    "L20": {
+        "precursor_combination": "L20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-005/02/920",
+        "HRMS_data_path": "/ms/AB-02-005_02_44.d"
+    },
+    "L21": {
+        "precursor_combination": "L21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-005/02/930",
+        "HRMS_data_path": "/ms/AB-02-005_02_45.d"
+    },
+    "L22": {
+        "precursor_combination": "L22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-005/02/940",
+        "HRMS_data_path": "/ms/AB-02-005_02_46.d"
+    },
+    "L23": {
+        "precursor_combination": "L23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-005/02/950",
+        "HRMS_data_path": "/ms/AB-02-005_02_47.d"
+    },
+    "L24": {
+        "precursor_combination": "L24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "02",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-005/02/960",
+        "HRMS_data_path": "/ms/AB-02-005_02_48.d"
+    },
+    "L25": {
+        "precursor_combination": "L25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_01",
+        "NMR_data_path": "/nmr/AB-02-009/01/10",
+        "HRMS_data_path": "/ms/AB-02-009_01_01.d"
+    },
+    "L26": {
+        "precursor_combination": "L26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_02",
+        "NMR_data_path": "/nmr/AB-02-009/01/20",
+        "HRMS_data_path": "/ms/AB-02-009_01_02.d"
+    },
+    "L27": {
+        "precursor_combination": "L27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-00/01/solubility_study_03",
+        "NMR_data_path": "/nmr/AB-02-009/01/30",
+        "HRMS_data_path": "/ms/AB-02-009_01_03.d"
+    },
+    "L28": {
+        "precursor_combination": "L28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_04",
+        "NMR_data_path": "/nmr/AB-02-009/01/40",
+        "HRMS_data_path": "/ms/AB-02-009_01_04.d"
+    },
+    "L29": {
+        "precursor_combination": "L29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_05",
+        "NMR_data_path": "/nmr/AB-02-009/01/50",
+        "HRMS_data_path": "/ms/AB-02-009_01_05.d"
+    },
+    "L30": {
+        "precursor_combination": "L30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_06",
+        "NMR_data_path": "/nmr/AB-02-009/01/60",
+        "HRMS_data_path": "/ms/AB-02-009_01_06.d"
+    },
+    "L31": {
+        "precursor_combination": "L31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_07",
+        "NMR_data_path": "/nmr/AB-02-009/01/70",
+        "HRMS_data_path": "/ms/AB-02-009_01_07.d"
+    },
+    "L32": {
+        "precursor_combination": "L32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_08",
+        "NMR_data_path": "/nmr/AB-02-009/01/80",
+        "HRMS_data_path": "/ms/AB-02-009_01_08.d"
+    },
+    "L33": {
+        "precursor_combination": "L33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_01",
+        "NMR_data_path": "/nmr/AB-02-009/02/10",
+        "HRMS_data_path": "/ms/AB-02-009_02_01.d"
+    },
+    "L34": {
+        "precursor_combination": "L34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_02",
+        "NMR_data_path": "/nmr/AB-02-009/02/20",
+        "HRMS_data_path": "/ms/AB-02-009_02_02.d"
+    },
+    "M17": {
+        "precursor_combination": "M17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_49",
+        "NMR_data_path": "/nmr/AB-02-005/04/1450",
+        "HRMS_data_path": "/ms/AB-02-005_04_01.d"
+    },
+    "M18": {
+        "precursor_combination": "M18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_50",
+        "NMR_data_path": "/nmr/AB-02-005/04/1460",
+        "HRMS_data_path": "/ms/AB-02-005_04_02.d"
+    },
+    "M19": {
+        "precursor_combination": "M19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_51",
+        "NMR_data_path": "/nmr/AB-02-005/04/1470",
+        "HRMS_data_path": "/ms/AB-02-005_04_03.d"
+    },
+    "M20": {
+        "precursor_combination": "M20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_52",
+        "NMR_data_path": "/nmr/AB-02-005/04/1480",
+        "HRMS_data_path": "/ms/AB-02-005_04_04.d"
+    },
+    "M21": {
+        "precursor_combination": "M21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_53",
+        "NMR_data_path": "/nmr/AB-02-005/04/1490",
+        "HRMS_data_path": "/ms/AB-02-005_04_05.d"
+    },
+    "M22": {
+        "precursor_combination": "M22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_54",
+        "NMR_data_path": "/nmr/AB-02-005/04/1500",
+        "HRMS_data_path": "/ms/AB-02-005_04_06.d"
+    },
+    "M23": {
+        "precursor_combination": "M23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_55",
+        "NMR_data_path": "/nmr/AB-02-005/04/1510",
+        "HRMS_data_path": "/ms/AB-02-005_04_07.d"
+    },
+    "M24": {
+        "precursor_combination": "M24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_56",
+        "NMR_data_path": "/nmr/AB-02-005/04/1520",
+        "HRMS_data_path": "/ms/AB-02-005_04_08.d"
+    },
+    "M25": {
+        "precursor_combination": "M25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_09",
+        "NMR_data_path": "/nmr/AB-02-009/01/90",
+        "HRMS_data_path": "/ms/AB-02-009_01_09.d"
+    },
+    "M26": {
+        "precursor_combination": "M26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-009/01/100",
+        "HRMS_data_path": "/ms/AB-02-009_01_10.d"
+    },
+    "M27": {
+        "precursor_combination": "M27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-009/01/110",
+        "HRMS_data_path": "/ms/AB-02-009_01_11.d"
+    },
+    "M28": {
+        "precursor_combination": "M28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-009/01/120",
+        "HRMS_data_path": "/ms/AB-02-009_01_12.d"
+    },
+    "M29": {
+        "precursor_combination": "M29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-009/01/130",
+        "HRMS_data_path": "/ms/AB-02-009_01_13.d"
+    },
+    "M30": {
+        "precursor_combination": "M30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-009/01/140",
+        "HRMS_data_path": "/ms/AB-02-009_01_14.d"
+    },
+    "M31": {
+        "precursor_combination": "M31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-009/01/150",
+        "HRMS_data_path": "/ms/AB-02-009_01_15.d"
+    },
+    "M32": {
+        "precursor_combination": "M32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-009/01/160",
+        "HRMS_data_path": "/ms/AB-02-009_01_16.d"
+    },
+    "M33": {
+        "precursor_combination": "M33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_09",
+        "NMR_data_path": "/nmr/AB-02-009/02/90",
+        "HRMS_data_path": "/ms/AB-02-009_02_09.d"
+    },
+    "M34": {
+        "precursor_combination": "M34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-009/02/100",
+        "HRMS_data_path": "/ms/AB-02-009_02_10.d"
+    },
+    "N17": {
+        "precursor_combination": "N17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_57",
+        "NMR_data_path": "/nmr/AB-02-005/04/1530",
+        "HRMS_data_path": "/ms/AB-02-005_04_09.d"
+    },
+    "N18": {
+        "precursor_combination": "N18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_58",
+        "NMR_data_path": "/nmr/AB-02-005/04/1540",
+        "HRMS_data_path": "/ms/AB-02-005_04_10.d"
+    },
+    "N19": {
+        "precursor_combination": "N19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_59",
+        "NMR_data_path": "/nmr/AB-02-005/04/1550",
+        "HRMS_data_path": "/ms/AB-02-005_04_11.d"
+    },
+    "N20": {
+        "precursor_combination": "N20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_60",
+        "NMR_data_path": "/nmr/AB-02-005/04/1560",
+        "HRMS_data_path": "/ms/AB-02-005_04_12.d"
+    },
+    "N21": {
+        "precursor_combination": "N21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_61",
+        "NMR_data_path": "/nmr/AB-02-005/04/1570",
+        "HRMS_data_path": "/ms/AB-02-005_04_13.d"
+    },
+    "N22": {
+        "precursor_combination": "N22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_62",
+        "NMR_data_path": "/nmr/AB-02-005/04/1580",
+        "HRMS_data_path": "/ms/AB-02-005_04_14.d"
+    },
+    "N23": {
+        "precursor_combination": "N23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_63",
+        "NMR_data_path": "/nmr/AB-02-005/04/1590",
+        "HRMS_data_path": "/ms/AB-02-005_04_15.d"
+    },
+    "N24": {
+        "precursor_combination": "N24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_64",
+        "NMR_data_path": "/nmr/AB-02-005/04/1600",
+        "HRMS_data_path": "/ms/AB-02-005_04_16.d"
+    },
+    "N25": {
+        "precursor_combination": "N25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-009/01/170",
+        "HRMS_data_path": "/ms/AB-02-009_01_17.d"
+    },
+    "N26": {
+        "precursor_combination": "N26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-009/01/180",
+        "HRMS_data_path": "/ms/AB-02-009_01_18.d"
+    },
+    "N27": {
+        "precursor_combination": "N27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-009/01/190",
+        "HRMS_data_path": "/ms/AB-02-009_01_19.d"
+    },
+    "N28": {
+        "precursor_combination": "N28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-009/01/200",
+        "HRMS_data_path": "/ms/AB-02-009_01_20.d"
+    },
+    "N29": {
+        "precursor_combination": "N29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-009/01/210",
+        "HRMS_data_path": "/ms/AB-02-009_01_21.d"
+    },
+    "N30": {
+        "precursor_combination": "N30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-009/01/220",
+        "HRMS_data_path": "/ms/AB-02-009_01_22.d"
+    },
+    "N31": {
+        "precursor_combination": "N31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-009/01/230",
+        "HRMS_data_path": "/ms/AB-02-009_01_23.d"
+    },
+    "N32": {
+        "precursor_combination": "N32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-009/01/240",
+        "HRMS_data_path": "/ms/AB-02-009_01_24.d"
+    },
+    "N33": {
+        "precursor_combination": "N33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-009/02/170",
+        "HRMS_data_path": "/ms/AB-02-009_02_17.d"
+    },
+    "N34": {
+        "precursor_combination": "N34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-009/02/180",
+        "HRMS_data_path": "/ms/AB-02-009_02_18.d"
+    },
+    "O17": {
+        "precursor_combination": "O17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_65",
+        "NMR_data_path": "/nmr/AB-02-005/04/1610",
+        "HRMS_data_path": "/ms/AB-02-005_04_17.d"
+    },
+    "O18": {
+        "precursor_combination": "O18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_66",
+        "NMR_data_path": "/nmr/AB-02-005/04/1620",
+        "HRMS_data_path": "/ms/AB-02-005_04_18.d"
+    },
+    "O19": {
+        "precursor_combination": "O19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_67",
+        "NMR_data_path": "/nmr/AB-02-005/04/1630",
+        "HRMS_data_path": "/ms/AB-02-005_04_19.d"
+    },
+    "O20": {
+        "precursor_combination": "O20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_68",
+        "NMR_data_path": "/nmr/AB-02-005/04/1640",
+        "HRMS_data_path": "/ms/AB-02-005_04_20.d"
+    },
+    "O21": {
+        "precursor_combination": "O21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_69",
+        "NMR_data_path": "/nmr/AB-02-005/04/1650",
+        "HRMS_data_path": "/ms/AB-02-005_04_21.d"
+    },
+    "O22": {
+        "precursor_combination": "O22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_70",
+        "NMR_data_path": "/nmr/AB-02-005/04/1660",
+        "HRMS_data_path": "/ms/AB-02-005_04_22.d"
+    },
+    "O23": {
+        "precursor_combination": "O23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_71",
+        "NMR_data_path": "/nmr/AB-02-005/04/1670",
+        "HRMS_data_path": "/ms/AB-02-005_04_23.d"
+    },
+    "O24": {
+        "precursor_combination": "O24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_72",
+        "NMR_data_path": "/nmr/AB-02-005/04/1680",
+        "HRMS_data_path": "/ms/AB-02-005_04_24.d"
+    },
+    "O25": {
+        "precursor_combination": "O25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-009/01/250",
+        "HRMS_data_path": "/ms/AB-02-009_01_25.d"
+    },
+    "O26": {
+        "precursor_combination": "O26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-009/01/260",
+        "HRMS_data_path": "/ms/AB-02-009_01_26.d"
+    },
+    "O27": {
+        "precursor_combination": "O27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-009/01/270",
+        "HRMS_data_path": "/ms/AB-02-009_01_27.d"
+    },
+    "O28": {
+        "precursor_combination": "O28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-009/01/280",
+        "HRMS_data_path": "/ms/AB-02-009_01_28.d"
+    },
+    "O29": {
+        "precursor_combination": "O29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-009/01/290",
+        "HRMS_data_path": "/ms/AB-02-009_01_29.d"
+    },
+    "O30": {
+        "precursor_combination": "O30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-009/01/300",
+        "HRMS_data_path": "/ms/AB-02-009_01_30.d"
+    },
+    "O31": {
+        "precursor_combination": "O31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-009/01/310",
+        "HRMS_data_path": "/ms/AB-02-009_01_31.d"
+    },
+    "O32": {
+        "precursor_combination": "O32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-009/01/320",
+        "HRMS_data_path": "/ms/AB-02-009_01_32.d"
+    },
+    "O33": {
+        "precursor_combination": "O33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-009/02/250",
+        "HRMS_data_path": "/ms/AB-02-009_02_25.d"
+    },
+    "O34": {
+        "precursor_combination": "O34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-009/02/260",
+        "HRMS_data_path": "/ms/AB-02-009_02_26.d"
+    },
+    "P17": {
+        "precursor_combination": "P17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_73",
+        "NMR_data_path": "/nmr/AB-02-005/04/1690",
+        "HRMS_data_path": "/ms/AB-02-005_04_25.d"
+    },
+    "P18": {
+        "precursor_combination": "P18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_74",
+        "NMR_data_path": "/nmr/AB-02-005/04/1700",
+        "HRMS_data_path": "/ms/AB-02-005_04_26.d"
+    },
+    "P19": {
+        "precursor_combination": "P19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_75",
+        "NMR_data_path": "/nmr/AB-02-005/04/1710",
+        "HRMS_data_path": "/ms/AB-02-005_04_27.d"
+    },
+    "P20": {
+        "precursor_combination": "P20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_76",
+        "NMR_data_path": "/nmr/AB-02-005/04/1720",
+        "HRMS_data_path": "/ms/AB-02-005_04_28.d"
+    },
+    "P21": {
+        "precursor_combination": "P21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_77",
+        "NMR_data_path": "/nmr/AB-02-005/04/1730",
+        "HRMS_data_path": "/ms/AB-02-005_04_29.d"
+    },
+    "P22": {
+        "precursor_combination": "P22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_78",
+        "NMR_data_path": "/nmr/AB-02-005/04/1740",
+        "HRMS_data_path": "/ms/AB-02-005_04_30.d"
+    },
+    "P23": {
+        "precursor_combination": "P23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_79",
+        "NMR_data_path": "/nmr/AB-02-005/04/1750",
+        "HRMS_data_path": "/ms/AB-02-005_04_31.d"
+    },
+    "P24": {
+        "precursor_combination": "P24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_80",
+        "NMR_data_path": "/nmr/AB-02-005/04/1760",
+        "HRMS_data_path": "/ms/AB-02-005_04_32.d"
+    },
+    "P25": {
+        "precursor_combination": "P25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-009/01/330",
+        "HRMS_data_path": "/ms/AB-02-009_01_33.d"
+    },
+    "P26": {
+        "precursor_combination": "P26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-009/01/340",
+        "HRMS_data_path": "/ms/AB-02-009_01_34.d"
+    },
+    "P27": {
+        "precursor_combination": "P27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-009/01/350",
+        "HRMS_data_path": "/ms/AB-02-009_01_35.d"
+    },
+    "P28": {
+        "precursor_combination": "P28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-009/01/360",
+        "HRMS_data_path": "/ms/AB-02-009_01_36.d"
+    },
+    "P29": {
+        "precursor_combination": "P29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-009/01/370",
+        "HRMS_data_path": "/ms/AB-02-009_01_37.d"
+    },
+    "P30": {
+        "precursor_combination": "P30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-009/01/380",
+        "HRMS_data_path": "/ms/AB-02-009_01_38.d"
+    },
+    "P31": {
+        "precursor_combination": "P31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-009/01/390",
+        "HRMS_data_path": "/ms/AB-02-009_01_39.d"
+    },
+    "P32": {
+        "precursor_combination": "P32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-009/01/400",
+        "HRMS_data_path": "/ms/AB-02-009_01_40.d"
+    },
+    "P33": {
+        "precursor_combination": "P33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-009/02/330",
+        "HRMS_data_path": "/ms/AB-02-009_02_33.d"
+    },
+    "P34": {
+        "precursor_combination": "P34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-009/02/340",
+        "HRMS_data_path": "/ms/AB-02-009_02_34.d"
+    },
+    "Q17": {
+        "precursor_combination": "Q17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_81",
+        "NMR_data_path": "/nmr/AB-02-005/04/1770",
+        "HRMS_data_path": "/ms/AB-02-005_04_33.d"
+    },
+    "Q18": {
+        "precursor_combination": "Q18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_82",
+        "NMR_data_path": "/nmr/AB-02-005/04/1780",
+        "HRMS_data_path": "/ms/AB-02-005_04_34.d"
+    },
+    "Q19": {
+        "precursor_combination": "Q19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_83",
+        "NMR_data_path": "/nmr/AB-02-005/04/1790",
+        "HRMS_data_path": "/ms/AB-02-005_04_35.d"
+    },
+    "Q20": {
+        "precursor_combination": "Q20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_84",
+        "NMR_data_path": "/nmr/AB-02-005/04/1800",
+        "HRMS_data_path": "/ms/AB-02-005_04_36.d"
+    },
+    "Q21": {
+        "precursor_combination": "Q21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_85",
+        "NMR_data_path": "/nmr/AB-02-005/04/1810",
+        "HRMS_data_path": "/ms/AB-02-005_04_37.d"
+    },
+    "Q22": {
+        "precursor_combination": "Q22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_86",
+        "NMR_data_path": "/nmr/AB-02-005/04/1820",
+        "HRMS_data_path": "/ms/AB-02-005_04_38.d"
+    },
+    "Q23": {
+        "precursor_combination": "Q23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_87",
+        "NMR_data_path": "/nmr/AB-02-005/04/1830",
+        "HRMS_data_path": "/ms/AB-02-005_04_39.d"
+    },
+    "Q24": {
+        "precursor_combination": "Q24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_88",
+        "NMR_data_path": "/nmr/AB-02-005/04/1840",
+        "HRMS_data_path": "/ms/AB-02-005_04_40.d"
+    },
+    "Q25": {
+        "precursor_combination": "Q25",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-009/01/410",
+        "HRMS_data_path": "/ms/AB-02-009_01_41.d"
+    },
+    "Q26": {
+        "precursor_combination": "Q26",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-009/01/420",
+        "HRMS_data_path": "/ms/AB-02-009_01_42.d"
+    },
+    "Q27": {
+        "precursor_combination": "Q27",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-009/01/430",
+        "HRMS_data_path": "/ms/AB-02-009_01_43.d"
+    },
+    "Q28": {
+        "precursor_combination": "Q28",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-009/01/440",
+        "HRMS_data_path": "/ms/AB-02-009_01_44.d"
+    },
+    "Q29": {
+        "precursor_combination": "Q29",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-009/01/450",
+        "HRMS_data_path": "/ms/AB-02-009_01_45.d"
+    },
+    "Q30": {
+        "precursor_combination": "Q30",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-009/01/460",
+        "HRMS_data_path": "/ms/AB-02-009_01_46.d"
+    },
+    "Q31": {
+        "precursor_combination": "Q31",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-009/01/470",
+        "HRMS_data_path": "/ms/AB-02-009_01_47.d"
+    },
+    "Q32": {
+        "precursor_combination": "Q32",
+        "experiment_code": "AB-02-009",
+        "plate_number": "01",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-009/01/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-009/01/480",
+        "HRMS_data_path": "/ms/AB-02-009_01_48.d"
+    },
+    "Q33": {
+        "precursor_combination": "Q33",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-009/02/410",
+        "HRMS_data_path": "/ms/AB-02-009_02_41.d"
+    },
+    "Q34": {
+        "precursor_combination": "Q34",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-009/02/420",
+        "HRMS_data_path": "/ms/AB-02-009_02_42.d"
+    },
+    "R17": {
+        "precursor_combination": "R17",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_89",
+        "NMR_data_path": "/nmr/AB-02-005/04/1850",
+        "HRMS_data_path": "/ms/AB-02-005_04_41.d"
+    },
+    "R18": {
+        "precursor_combination": "R18",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_90",
+        "NMR_data_path": "/nmr/AB-02-005/04/1860",
+        "HRMS_data_path": "/ms/AB-02-005_04_42.d"
+    },
+    "R19": {
+        "precursor_combination": "R19",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_91",
+        "NMR_data_path": "/nmr/AB-02-005/04/1870",
+        "HRMS_data_path": "/ms/AB-02-005_04_43.d"
+    },
+    "R20": {
+        "precursor_combination": "R20",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_92",
+        "NMR_data_path": "/nmr/AB-02-005/04/1880",
+        "HRMS_data_path": "/ms/AB-02-005_04_44.d"
+    },
+    "R21": {
+        "precursor_combination": "R21",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_93",
+        "NMR_data_path": "/nmr/AB-02-005/04/1890",
+        "HRMS_data_path": "/ms/AB-02-005_04_45.d"
+    },
+    "R22": {
+        "precursor_combination": "R22",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_94",
+        "NMR_data_path": "/nmr/AB-02-005/04/1900",
+        "HRMS_data_path": "/ms/AB-02-005_04_46.d"
+    },
+    "R23": {
+        "precursor_combination": "R23",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_95",
+        "NMR_data_path": "/nmr/AB-02-005/04/1910",
+        "HRMS_data_path": "/ms/AB-02-005_04_47.d"
+    },
+    "R24": {
+        "precursor_combination": "R24",
+        "experiment_code": "AB-02-005",
+        "plate_number": "04",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-005/02/solubility_study_96",
+        "NMR_data_path": "/nmr/AB-02-005/04/1920",
+        "HRMS_data_path": "/ms/AB-02-005_04_48.d"
+    },
+    "R25": {
+        "precursor_combination": "R25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-007/01/470",
+        "HRMS_data_path": "/ms/AB-02-007_01_47.d"
+    },
+    "R26": {
+        "precursor_combination": "R26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "01",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-007/01/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-007/01/480",
+        "HRMS_data_path": "/ms/AB-02-007_01_48.d"
+    },
+    "R27": {
+        "precursor_combination": "R27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-007/04/410",
+        "HRMS_data_path": "/ms/AB-02-007_04_41.d"
+    },
+    "R28": {
+        "precursor_combination": "R28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-007/04/420",
+        "HRMS_data_path": "/ms/AB-02-007_04_42.d"
+    },
+    "R29": {
+        "precursor_combination": "R29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-007/04/430",
+        "HRMS_data_path": "/ms/AB-02-007_04_43.d"
+    },
+    "R30": {
+        "precursor_combination": "R30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-007/04/440",
+        "HRMS_data_path": "/ms/AB-02-007_04_44.d"
+    },
+    "R31": {
+        "precursor_combination": "R31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-007/04/450",
+        "HRMS_data_path": "/ms/AB-02-007_04_45.d"
+    },
+    "R32": {
+        "precursor_combination": "R29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-007/04/460",
+        "HRMS_data_path": "/ms/AB-02-007_04_46.d"
+    },
+    "R33": {
+        "precursor_combination": "R30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-007/04/470",
+        "HRMS_data_path": "/ms/AB-02-007_04_47.d"
+    },
+    "R34": {
+        "precursor_combination": "R31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "04",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-007/04/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-007/04/480",
+        "HRMS_data_path": "/ms/AB-02-007_04_48.d"
+    },
+    "S17": {
+        "precursor_combination": "S17",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_3",
+        "NMR_data_path": "/nmr/AB-02-009/02/30",
+        "HRMS_data_path": "/ms/AB-02-009_02_03.d"
+    },
+    "S18": {
+        "precursor_combination": "S18",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "01",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_1",
+        "NMR_data_path": "/nmr/AB-02-007/03/10",
+        "HRMS_data_path": "/ms/AB-02-007_03_01.d"
+    },
+    "S19": {
+        "precursor_combination": "S19",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "02",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_2",
+        "NMR_data_path": "/nmr/AB-02-007/03/20",
+        "HRMS_data_path": "/ms/AB-02-007_03_02.d"
+    },
+    "S20": {
+        "precursor_combination": "S20",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "03",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_3",
+        "NMR_data_path": "/nmr/AB-02-007/03/30",
+        "HRMS_data_path": "/ms/AB-02-007_03_03.d"
+    },
+    "S21": {
+        "precursor_combination": "S21",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-009/02/270",
+        "HRMS_data_path": "/ms/AB-02-009_02_27.d"
+    },
+    "S22": {
+        "precursor_combination": "S22",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "04",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_4",
+        "NMR_data_path": "/nmr/AB-02-007/03/40",
+        "HRMS_data_path": "/ms/AB-02-007_03_04.d"
+    },
+    "S23": {
+        "precursor_combination": "S23",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "05",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_5",
+        "NMR_data_path": "/nmr/AB-02-007/03/50",
+        "HRMS_data_path": "/ms/AB-02-007_03_05.d"
+    },
+    "S24": {
+        "precursor_combination": "S24",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "06",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_6",
+        "NMR_data_path": "/nmr/AB-02-007/03/60",
+        "HRMS_data_path": "/ms/AB-02-007_03_06.d"
+    },
+    "S25": {
+        "precursor_combination": "S25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "07",
+        "turbidity_data_path": "/turbidity/AB-02-007/02/solubility_study_7",
+        "NMR_data_path": "/nmr/AB-02-007/02/70",
+        "HRMS_data_path": "/ms/AB-02-007_01_07.d"
+    },
+    "S26": {
+        "precursor_combination": "S26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "08",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_8",
+        "NMR_data_path": "/nmr/AB-02-007/03/80",
+        "HRMS_data_path": "/ms/AB-02-007_03_08.d"
+    },
+    "S27": {
+        "precursor_combination": "S27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "25",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_25",
+        "NMR_data_path": "/nmr/AB-02-007/03/250",
+        "HRMS_data_path": "/ms/AB-02-007_03_25.d"
+    },
+    "S28": {
+        "precursor_combination": "S28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "26",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_26",
+        "NMR_data_path": "/nmr/AB-02-007/03/260",
+        "HRMS_data_path": "/ms/AB-02-007_03_26.d"
+    },
+    "S29": {
+        "precursor_combination": "S29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "27",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_27",
+        "NMR_data_path": "/nmr/AB-02-007/03/270",
+        "HRMS_data_path": "/ms/AB-02-007_03_27.d"
+    },
+    "S30": {
+        "precursor_combination": "S30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "28",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_28",
+        "NMR_data_path": "/nmr/AB-02-007/03/280",
+        "HRMS_data_path": "/ms/AB-02-007_03_28.d"
+    },
+    "S31": {
+        "precursor_combination": "S31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "29",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_29",
+        "NMR_data_path": "/nmr/AB-02-007/03/290",
+        "HRMS_data_path": "/ms/AB-02-007_03_29.d"
+    },
+    "S32": {
+        "precursor_combination": "S32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "30",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_30",
+        "NMR_data_path": "/nmr/AB-02-007/03/300",
+        "HRMS_data_path": "/ms/AB-02-007_03_30.d"
+    },
+    "S33": {
+        "precursor_combination": "S33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-007/03/310",
+        "HRMS_data_path": "/ms/AB-02-007_03_31.d"
+    },
+    "S34": {
+        "precursor_combination": "S34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "32",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_32",
+        "NMR_data_path": "/nmr/AB-02-007/03/320",
+        "HRMS_data_path": "/ms/AB-02-007_03_32.d"
+    },
+    "T17": {
+        "precursor_combination": "T17",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-009/02/110",
+        "HRMS_data_path": "/ms/AB-02-009_02_11.d"
+    },
+    "T18": {
+        "precursor_combination": "T18",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "09",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_9",
+        "NMR_data_path": "/nmr/AB-02-007/03/90",
+        "HRMS_data_path": "/ms/AB-02-007_03_09.d"
+    },
+    "T19": {
+        "precursor_combination": "T19",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "10",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_10",
+        "NMR_data_path": "/nmr/AB-02-007/03/100",
+        "HRMS_data_path": "/ms/AB-02-007_03_10.d"
+    },
+    "T20": {
+        "precursor_combination": "T20",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "11",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_11",
+        "NMR_data_path": "/nmr/AB-02-007/03/110",
+        "HRMS_data_path": "/ms/AB-02-007_03_11.d"
+    },
+    "T21": {
+        "precursor_combination": "T21",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-009/02/350",
+        "HRMS_data_path": "/ms/AB-02-009_02_35.d"
+    },
+    "T22": {
+        "precursor_combination": "T22",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "12",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_12",
+        "NMR_data_path": "/nmr/AB-02-007/03/120",
+        "HRMS_data_path": "/ms/AB-02-007_03_12.d"
+    },
+    "T23": {
+        "precursor_combination": "T23",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "13",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_13",
+        "NMR_data_path": "/nmr/AB-02-007/03/130",
+        "HRMS_data_path": "/ms/AB-02-007_03_13.d"
+    },
+    "T24": {
+        "precursor_combination": "T24",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "14",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_14",
+        "NMR_data_path": "/nmr/AB-02-007/03/140",
+        "HRMS_data_path": "/ms/AB-02-007_03_14.d"
+    },
+    "T25": {
+        "precursor_combination": "T25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "15",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_15",
+        "NMR_data_path": "/nmr/AB-02-007/03/150",
+        "HRMS_data_path": "/ms/AB-02-007_03_15.d"
+    },
+    "T26": {
+        "precursor_combination": "T26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "16",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_16",
+        "NMR_data_path": "/nmr/AB-02-007/03/160",
+        "HRMS_data_path": "/ms/AB-02-007_03_16.d"
+    },
+    "T27": {
+        "precursor_combination": "T27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "33",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_33",
+        "NMR_data_path": "/nmr/AB-02-007/03/330",
+        "HRMS_data_path": "/ms/AB-02-007_03_33.d"
+    },
+    "T28": {
+        "precursor_combination": "T28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "34",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_34",
+        "NMR_data_path": "/nmr/AB-02-007/03/340",
+        "HRMS_data_path": "/ms/AB-02-007_03_34.d"
+    },
+    "T29": {
+        "precursor_combination": "T29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "35",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_35",
+        "NMR_data_path": "/nmr/AB-02-007/03/350",
+        "HRMS_data_path": "/ms/AB-02-007_03_35.d"
+    },
+    "T30": {
+        "precursor_combination": "T30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "36",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_36",
+        "NMR_data_path": "/nmr/AB-02-007/03/360",
+        "HRMS_data_path": "/ms/AB-02-007_03_36.d"
+    },
+    "T31": {
+        "precursor_combination": "T31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "37",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_37",
+        "NMR_data_path": "/nmr/AB-02-007/03/370",
+        "HRMS_data_path": "/ms/AB-02-007_03_37.d"
+    },
+    "T32": {
+        "precursor_combination": "T32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "38",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_38",
+        "NMR_data_path": "/nmr/AB-02-007/03/380",
+        "HRMS_data_path": "/ms/AB-02-007_03_38.d"
+    },
+    "T33": {
+        "precursor_combination": "T33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "39",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_39",
+        "NMR_data_path": "/nmr/AB-02-007/03/390",
+        "HRMS_data_path": "/ms/AB-02-007_03_39.d"
+    },
+    "T34": {
+        "precursor_combination": "T34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "40",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_40",
+        "NMR_data_path": "/nmr/AB-02-007/03/400",
+        "HRMS_data_path": "/ms/AB-02-007_03_40.d"
+    },
+    "U17": {
+        "precursor_combination": "U17",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-009/02/190",
+        "HRMS_data_path": "/ms/AB-02-009_02_19.d"
+    },
+    "U18": {
+        "precursor_combination": "U18",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "17",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_17",
+        "NMR_data_path": "/nmr/AB-02-007/03/170",
+        "HRMS_data_path": "/ms/AB-02-007_03_17.d"
+    },
+    "U19": {
+        "precursor_combination": "U19",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "18",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_18",
+        "NMR_data_path": "/nmr/AB-02-007/03/180",
+        "HRMS_data_path": "/ms/AB-02-007_03_18.d"
+    },
+    "U20": {
+        "precursor_combination": "U20",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "19",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_19",
+        "NMR_data_path": "/nmr/AB-02-007/03/190",
+        "HRMS_data_path": "/ms/AB-02-007_03_19.d"
+    },
+    "U21": {
+        "precursor_combination": "U21",
+        "experiment_code": "AB-02-009",
+        "plate_number": "02",
+        "formulation_number": "31",
+        "turbidity_data_path": "/turbidity/AB-02-009/02/solubility_study_31",
+        "NMR_data_path": "/nmr/AB-02-009/02/310",
+        "HRMS_data_path": "/ms/AB-02-009_02_31.d"
+    },
+    "U22": {
+        "precursor_combination": "U22",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "20",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_20",
+        "NMR_data_path": "/nmr/AB-02-007/03/200",
+        "HRMS_data_path": "/ms/AB-02-007_03_20.d"
+    },
+    "U23": {
+        "precursor_combination": "U23",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "21",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_21",
+        "NMR_data_path": "/nmr/AB-02-007/03/210",
+        "HRMS_data_path": "/ms/AB-02-007_03_21.d"
+    },
+    "U24": {
+        "precursor_combination": "U24",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "22",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_22",
+        "NMR_data_path": "/nmr/AB-02-007/03/220",
+        "HRMS_data_path": "/ms/AB-02-007_03_22.d"
+    },
+    "U25": {
+        "precursor_combination": "U25",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "23",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_23",
+        "NMR_data_path": "/nmr/AB-02-007/03/230",
+        "HRMS_data_path": "/ms/AB-02-007_03_23.d"
+    },
+    "U26": {
+        "precursor_combination": "U26",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "24",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_24",
+        "NMR_data_path": "/nmr/AB-02-007/03/240",
+        "HRMS_data_path": "/ms/AB-02-007_03_24.d"
+    },
+    "U27": {
+        "precursor_combination": "U27",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "41",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_41",
+        "NMR_data_path": "/nmr/AB-02-007/03/410",
+        "HRMS_data_path": "/ms/AB-02-007_03_41.d"
+    },
+    "U28": {
+        "precursor_combination": "U28",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "42",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_42",
+        "NMR_data_path": "/nmr/AB-02-007/03/420",
+        "HRMS_data_path": "/ms/AB-02-007_03_42.d"
+    },
+    "U29": {
+        "precursor_combination": "U29",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "43",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_43",
+        "NMR_data_path": "/nmr/AB-02-007/03/430",
+        "HRMS_data_path": "/ms/AB-02-007_03_43.d"
+    },
+    "U30": {
+        "precursor_combination": "U30",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "44",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_44",
+        "NMR_data_path": "/nmr/AB-02-007/03/440",
+        "HRMS_data_path": "/ms/AB-02-007_03_44.d"
+    },
+    "U31": {
+        "precursor_combination": "U31",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "45",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_45",
+        "NMR_data_path": "/nmr/AB-02-007/03/450",
+        "HRMS_data_path": "/ms/AB-02-007_03_45.d"
+    },
+    "U32": {
+        "precursor_combination": "U32",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "46",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_46",
+        "NMR_data_path": "/nmr/AB-02-007/03/460",
+        "HRMS_data_path": "/ms/AB-02-007_03_46.d"
+    },
+    "U33": {
+        "precursor_combination": "U33",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "47",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_47",
+        "NMR_data_path": "/nmr/AB-02-007/03/470",
+        "HRMS_data_path": "/ms/AB-02-007_03_47.d"
+    },
+    "U34": {
+        "precursor_combination": "U34",
+        "experiment_code": "AB-02-007",
+        "plate_number": "03",
+        "formulation_number": "48",
+        "turbidity_data_path": "/turbidity/AB-02-007/03/solubility_study_48",
+        "NMR_data_path": "/nmr/AB-02-007/03/480",
+        "HRMS_data_path": "/ms/AB-02-007_03_48.d"
+    }
+}

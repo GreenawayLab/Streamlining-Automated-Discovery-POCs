@@ -11,7 +11,7 @@ Measurement
 - A region of interest (ROI) was selected for each the reference and reaction vial. 
 - Each selection was written to `vision_selection.json`. This was selected as a path for all proceeding measurements of the reaction plate to accelerate data curation.
 - The script look a measurement for turbidity of the reference vial in the ROI and then monitored the ROI in the reaction mixture vial.
-- The script monitored the sample for a maximum period of two minutes and terminated when an outcome of 'dissolved' or 'stable' (equilibrium reqached but not dissolved)
+- The script monitored the sample for a maximum period of two minutes and terminated when an outcome of 'dissolved' or 'stable' (equilibrium reached but not dissolved)
 
 Output
 

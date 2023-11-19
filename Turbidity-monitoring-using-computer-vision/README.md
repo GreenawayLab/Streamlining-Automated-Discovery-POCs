@@ -2,7 +2,7 @@
 
 Experimental Setup
 
-A Raspberry Pi 4 Desktop was connected to a web camera (Microsoft LifeCam HD-3000) and was used to run the computer vision script. A reference sample of the reaction solvent (1 mL, CHCl3) in a 2 mL vial was positioned within the 3D printed 2-vial holder found in (`3D-printing`). Each reaction mixture vial from the `48-well reaction plate` was transferred into the adjacted vial position next to the reference.  
+A Raspberry Pi 4 Desktop was connected to a web camera (Microsoft LifeCam HD-3000) and was used to run the computer vision script. A reference sample of the reaction solvent (1 mL, CHCl3) in a 2 mL vial was positioned within the 3D printed 2-vial holder found in (`3D-printing`). Each reaction mixture vial from the `48-well reaction plate` was transferred into the adjacent vial position next to the reference.  
 
 Measurement
 

@@ -12,7 +12,7 @@ import matplotlib
 # matplotlib.use('TkAgg')
 
 
-class TurbidityMonitor:
+class mxTurbidityMonitor:
     def __init__(self,
                  parent_path: str,
                  measurements_per_min: int = 12,

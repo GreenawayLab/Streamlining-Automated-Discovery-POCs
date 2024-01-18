@@ -1,8 +1,8 @@
-from turbidity_solubility import TurbidityMonitor
+from turbidity_solubility import mxTurbidityMonitor
 import time
 
 #need to change the path on the pi
-mtm = TurbidityMonitor('C:/path-to-folder/Turbidity-monitoring-using-computer-vision/',
+mtm = mxTurbidityMonitor('C:/path-to-folder/Turbidity-monitoring-using-computer-vision/',
                          tm_n_minutes=1,
                          tm_range_limit=3,
                          tm_std_max=2, #std_max: maximum standard deviation the data can have to be determined as stable
